@@ -14,17 +14,16 @@ This project is an interactive A* Pathfinding Visualizer built using Python and 
    ```sh
    git clone https://github.com/krishnagotenks/a-star-pathfinding-visualizer.git
    cd a-star-pathfinding-visualizer
-Install dependencies:
+**Install dependencies:**
 
 Make sure you have Python installed. Then, install the required libraries:
 
-sh
-Copy code
+```sh
 pip install -r requirements.txt
-Run the application:
 
-sh
-Copy code
+**Run the application:**
+
+```sh
 python main.py
 Usage
 Left Click: Place the start point, end point, or barriers on the grid.
